@@ -1,0 +1,5 @@
+1 Algoritham to find wheather a number is even or odd
+2 Step1: start
+3 Step2: Accept a number
+4 Step3: Divide wih number 2, the resistor is 0 it is even else it is odd
+5 Step4: Stop

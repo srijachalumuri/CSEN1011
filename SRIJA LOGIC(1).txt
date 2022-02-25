@@ -1,0 +1,11 @@
+1)VALENTINES DAY
+LOGIC:
+      The program should be developed in such a way the no 2 girls stand next to  each other even though boys being more in number (where more than 2 guests are not invited).
+   
+
+                      n(b) -----> number of boys.
+                      n(g)-----> number of girls.
+
+
+So if the input value of boys is more that of girls, then no 2 girls can stand together for two conditions.
+If total number of people are even then B G B G or if total number of people are odd then 2 boys can stand next to eachother. 

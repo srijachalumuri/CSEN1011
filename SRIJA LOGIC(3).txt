@@ -1,0 +1,10 @@
+3)SHYAM SUNDAR
+LOGIC:- The logic will be valid only when the code vadidate for the following outputs.
+
+ >"Invalid Moblie Number" if mobile does not contain 10 degits.
+ >"Invalid Account" if account is negative.
+ >"Invaild Entry" If mobile number does contain 10 digits.
+ 
+If coustmer's number is not exactly 10 no's. It satisfies the condition  & if it has
+digits >or< then 10 then it is considered invalid. If the bill account updated is +ve
+then it is valid.

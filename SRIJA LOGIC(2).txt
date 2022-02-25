@@ -1,0 +1,5 @@
+2)CHESS BOARD
+LOGIC :- If you enter the 4 inputs the output is also an even number; indicating postions as rows and columns (2 for each).
+As per the position of input (for rows and columns) selected by the use respectively.The colour will be displayed accordingly
+then the logic is satisfied.If the given input are even number's then the same colour is displayed & if input are odd then 
+other colour is displayed.         

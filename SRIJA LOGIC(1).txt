@@ -1,6 +1,6 @@
 1)VALENTINES DAY
 LOGIC:
-      The program should be developed in such a way the no 2 girls stand next to  each other even though boys being more in number (where more than 2 guests are not invited).
+      The program should be developed in such a way that no 2 girls stand next to eachother even though boys being more in number (where more than 2 guests are not invited).
    
 
                       n(b) -----> number of boys.
